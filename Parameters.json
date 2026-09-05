@@ -1,0 +1,27 @@
+{
+  "BDP1" : true,
+  "BDP2" : false,
+  "Tenant_Name" : "PMMIL2",
+  "Tenant_ID" : "5891",
+  "kibo_environment_name" : "gcppmm",
+  "kibo_webapi_url" : "https://mygcppmm.o9solutions.com",
+  "LS_EtlUser" : "etluser@PMMIL2.com",
+  "LS_EtlPassword" : "Welcome@123",
+  "LS_TenantName" : "PMMIL4-Prod",
+  "LS_CustomerName" : "Adidas",
+  "LS_EnviName" : "GCPPMM-Prod",
+  "airflow_url" : "10.131.38.77:9080",
+  "Airflow_Username" : "gcppmm",
+  "Airflow_Password" : "odls!99",
+  "dag_id" : "Master_Dag,Load_FactTime_to_StgTime,CCM_ProductStats",
+  "ssh_hive_connection" : "hive_ssh",
+  "Cloud_Service" : "aws",
+  "Bucket_Name" : "s3",
+  "Bucket_Address" : "s3://o9dl-awsgt10126",
+  "Customer_Date_Format" : "dd-mmm-yy",
+  "Customer_Month_Format" : "mmm-yy"
+}
+
+
+
+
